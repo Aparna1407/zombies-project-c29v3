@@ -1,1 +1,2 @@
-# zombies-project-c29v3
+# zombie-crush-boilerplate
+boilerplate for crush the zombie game
